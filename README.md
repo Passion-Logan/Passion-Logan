@@ -6,7 +6,7 @@
 - 🔭 会使用Java写BUG
 - 🌱 前端小白
 - 👯 职业搬砖人员 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- 💬 别问,问就是不会.
+- 💬 ![看点别的](https://www.welcometohere.top).
 - ⚡ You can you up
 - 📫 怎么找到我:
 
