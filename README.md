@@ -1,7 +1,7 @@
 
 ### 👋 Hello World !  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
   
-:heart: 搬砖 | :black_heart: 运动 | :blue_heart: 女孩子
+:heart: 搬砖 | :black_heart: 运动 | :blue_heart: pingpongball
 
 - 🔭 会使用Java写BUG
 - 🌱 前端小白
