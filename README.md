@@ -7,9 +7,9 @@
 
 #### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 芜湖起飞~
 
-<p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Passion-Logan&langs_count=10&theme=tokyonight&layout=compact" alt="AnhellO :: Top Langs" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Passion-Logan&langs_count=10&theme=tokyonight&layout=compact" /></p>
 
-<p align="right"><img src="https://github-readme-stats.vercel.app/api?username=Passion-Logan&hide=["stars"]&show_icons=true" alt="AnhellO :: Profile Stats" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Passion-Logan&show_icons=true&theme=synthwave" /></p>
 
 ![Prify Philip's GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Passion-Logan&langs_count=10&theme=tokyonight&layout=compact")
 
