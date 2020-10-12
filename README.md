@@ -5,19 +5,15 @@
 
 ----
 
-#### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 芜湖起飞~
-
-<h4 align="center"><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 我的技能:</h4>
+<h4 align="center"><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 我的技能 </h4>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Passion-Logan&langs_count=10&theme=tokyonight&layout=compact" /></p>
 
-<h4 align="center">统计 :tongue:</h4>
+<h4 align="center"> 统计 :tongue: </h4>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Passion-Logan&show_icons=true&theme=synthwave" /></p>
 
-![Prify Philip's GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Passion-Logan&langs_count=10&theme=tokyonight&layout=compact")
 
-![Prify Philip's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Passion-Logan&hide=["stars"]&show_icons=true)
 
 -------
 
@@ -26,6 +22,8 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Passion-Logan)](https://github.com/anuraghazra/github-readme-stats)
 ### Hi there 👋
 **Passion-Logan/Passion-Logan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+![Prify Philip's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Passion-Logan&hide=["stars"]&show_icons=true)
 
 Here are some ideas to get you started:
 
