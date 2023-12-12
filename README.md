@@ -3,20 +3,21 @@
   
 :heart: 搬砖 | :black_heart: 运动 | :blue_heart: pingpongball
 
+<!-- 
 ----
 
-<!--  <h4 align="center"><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 我的技能 </h4>
+ <h4 align="center"><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 我的技能 </h4>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Passion-Logan&langs_count=10&theme=tokyonight&layout=compact" /></p>
 
 <h4 align="center"> 统计 :tongue: </h4>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Passion-Logan&show_icons=true&theme=synthwave" /></p>  -->
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Passion-Logan&show_icons=true&theme=synthwave" /></p>
 
 
 
 -------
-
+  -->
 
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Passion-Logan)](https://github.com/anuraghazra/github-readme-stats)
